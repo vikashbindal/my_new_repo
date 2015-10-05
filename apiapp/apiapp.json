@@ -1,0 +1,14 @@
+﻿{
+	"$schema": "http://json-schema.org/schemas/2014-11-01/apiapp.json#",
+	"id": "NickOnTime.NickTimer.Api_Learn",
+	"namespace": "microsoft.com",
+	"gateway": "2015-01-14",
+	"version": "1.0.0",
+	"title": "Api_Learn",
+	"summary": "",
+	"author": "",
+	"endpoints": {
+		"apiDefinition": "/swagger/docs/v1",
+		"status": null
+	}
+}
